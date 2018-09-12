@@ -2,7 +2,7 @@
 
 bt_5.9_offline
 
-wget https://bt.install.sh/install.sh && chmod +x install.sh && ./install.sh
+wget https://bt.installing.tw/install.sh && chmod +x install.sh && ./install.sh
 
 bt_crack
 
